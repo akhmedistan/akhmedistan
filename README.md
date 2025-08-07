@@ -27,9 +27,7 @@ Whether it's solving bugs or launching bots, I do it with a smile 😄
 
 *I'm Axmadjon Qaxxorov*
 
-*HACKALITY*
-
-*AKURO*
+*UzbeCode*
 
 **All of these are me.**
 
