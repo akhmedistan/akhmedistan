@@ -1,4 +1,4 @@
-# Hi, I'm Qaxxorov! 👋
+# Hi, I'm Axmadjon Qaxxorov! 👋
 
 ## 🚀 About Me  
 💻 I'm a **FullStack Developer** who loves creating modern, efficient, and beautiful web applications.  
