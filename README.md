@@ -1,50 +1,91 @@
-# Hi, I'm Axmadjon Qaxxorov! 👋
+***Axmadjon Qaxxorov***
 
-## 🚀 About Me  
-💻 I'm a **FullStack Developer** who loves creating modern, efficient, and beautiful web applications.  
-I mostly work with **Node.js**, **Python**, **React**, **Next.js**, and **FastAPI**, combining backend logic with smooth and aesthetic frontends.  
+`<h3>FullStack Developer | Backend & System Oriented Engineer</h3>`
 
-⚙️ I enjoy building APIs, Telegram bot projects, and full-featured web apps.  
-Always curious, always learning — I believe every line of code is a new opportunity to grow.  
+Building scalable backends, clean frontends, and production-ready systems.
+---
+
+## About Me
+
+FullStack Developer with strong focus on backend architecture, API design, and modern web systems.
+
+I build high-performance applications using Node.js and Python ecosystems, combining clean UI principles with scalable backend logic.
+
+I work confidently with relational and NoSQL databases, REST APIs, Telegram bots, and Linux-based environments.
+
+> “Consistency beats motivation. I build every day.”
 
 ---
 
-### 🧠 Tech Stack
+## Tech Stack
 
-**Backend:**  
-Node.js | FastAPI | Python  
+### Backend
+- Node.js
+- Python
+- FastAPI
+- Express.js
+- SQLAlchemy
+- aiogram 2.25.1
 
-**Frontend:**  
-React | Next.js | Tailwind CSS  
+### Frontend
+- React
+- Next.js
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Tailwind CSS
+- ShadCN UI
 
-**Database:**  
-PostgreSQL | MongoDB | SQLite  
+### Database
+- PostgreSQL
+- MongoDB
+- SQLite
 
-**Other Areas:**  
-AI integratsiyasi | API yaratish | Bot va Web App loyihalari  
-
----
-
-### 🌐 Find me here:
-- 🎥 [YouTube](https://youtube.com/@uzbecode)
-- ✈️ [Telegram](https://t.me/uzbecode)
-- 📸 [Instagram](https://instagram.com/uzbecode)
-- 🔗 [Taplink](https://taplink.cc/qaxxorovc)
-
----
-
-## FAQ
-
-**Who am I?**  
-*I'm Axmadjon Qaxxorov — also known as UzbeCode.*  
-*All of these are me.*
-
----
-
-### 🐼 Kung Fu Panda Moment
-
-<img src="https://github.com/axmadjonqaxxorovc/axmadjonqaxxorovc/blob/main/kung_fu_panda_gif.gif?raw=true" width="300" alt="Kung Fu Panda GIF" />
+### Systems & Tools
+- Linux OS
+- Git
+- REST API Architecture
+- API Integration
+- Telegram Bot Development
 
 ---
 
-⭐ *“Code, create, and keep improving — one project at a time.”*
+## Specialization
+
+- API Development (RESTful architecture)
+- Telegram Bot Systems (production-ready logic)
+- Admin Panels & Dashboards
+- Authentication Systems
+- Database Design & Optimization
+- Fullstack Web Applications
+- Automation & System Scripts
+
+---
+
+## Projects Direction
+
+- High-performance admin systems
+- API-first backend architecture
+- AI-powered tools
+- E-commerce & service automation
+- Telegram commerce bots
+
+---
+
+## Contact
+
+- [YouTube](https://youtube.com/@akhmedistan)
+- [Telegram](https://t.me/akhmedistan)
+- [All links](https://beacons.ai/akhmedistan) 
+
+---
+
+## Philosophy
+
+Clean code.  
+Structured logic.  
+Scalable systems.  
+Long-term thinking.
+
+---
+
